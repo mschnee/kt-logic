@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "moduleResolution": "node",
+        "target": "es2020",
+        "incremental": true,
+        "inlineSourceMap": true
+    },
+    "include": ["./src/**/*.ts"],
+    "exclude": ["./src/**/__tests__/**"]
+}

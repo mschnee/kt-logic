@@ -1,0 +1,31 @@
+{
+  "name": "kt-logic",
+  "version": "1.0.0",
+  "description": "kt-logic\r ========",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "bson-objectid": "^1.3.0",
+    "construe": "^0.4.1",
+    "cron-parser": "^2.12.0",
+    "cronstrue": "^1.79.0",
+    "moment": "^2.24.0",
+    "table": "^5.4.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/jest": "^24.0.15",
+    "@types/node": "^12.6.0",
+    "jest": "^24.8.0",
+    "typescript": "^3.5.2"
+  },
+  "scripts": {
+    "build": "tsc -p .",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
