@@ -9,7 +9,7 @@
     "construe": "^0.4.1",
     "cron-parser": "^2.12.0",
     "cronstrue": "^1.79.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "table": "^5.4.1"
   },
   "devDependencies": {
